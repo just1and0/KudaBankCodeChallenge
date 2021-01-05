@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450933539142",
+    "firebase_url": "https://tunsedev.firebaseio.com",
+    "project_id": "tunsedev",
+    "storage_bucket": "tunsedev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450933539142:android:7aa1e9c4aa8803f32d6547",
+        "android_client_info": {
+          "package_name": "com.tunse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450933539142-5ei6osg7s2illhpi0e6qlsl5b5rsm4mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPdiyb_-VSEBoDsO-coEeqTndDXcT1wPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450933539142-5ei6osg7s2illhpi0e6qlsl5b5rsm4mm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "450933539142-772ard6hle10afpte7jlvcpbf6gph059.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tunseapp.tunse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
